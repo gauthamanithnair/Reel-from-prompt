@@ -5,7 +5,7 @@ author : GAUTHAM ANITH NAIR
 EMAIL - gauthamanithnair@gmail.com
 Feel free to email me for collabs and suggestions regarding this Open-Source code
 ------------VERSION HISTORY----------------------
-v 0.01---The 0.01v release has no support for fine tuning and editing the videos used and subtitle text
+gauthamanithnair-patch-1---The 0.01v release has no support for fine tuning and editing the videos used and subtitle text
 
 -----Possible upgrades------
 1. Fine tuning the srt file 
@@ -18,4 +18,4 @@ v 0.01---The 0.01v release has no support for fine tuning and editing the videos
 ----API KEYS NEEDED ----
 1.OPENAI
 2.ASSEMBLY AI
-3.PEXELS
+3.PEXELS 
